@@ -1,3 +1,3 @@
 <?php
-   echo"loctest1"; 
+   echo"loctest12"; 
 ?>
